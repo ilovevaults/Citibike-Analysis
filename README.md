@@ -16,3 +16,5 @@ This graph further expands on the previous two graphs by adding another filter f
 Peak riding hours are show in this bar graph.
 ![Usertype](https://user-images.githubusercontent.com/98357581/170884314-c15c0e80-d8b0-4e7a-9186-d95cb53a3584.PNG)
 The numbers of each type of users are shown in this pie chart.
+#### Summary
+There are about 2,344,224 users in the citibike bikesharing program. About 81 percent of them are annual users while only 19 percent are regular customers. Most of the bike trips were done by males and a majority of them are also annual users. The most number of trips by both genders tend to be from Monday to Friday at 6am-9am then at 5pm-7pm. 
